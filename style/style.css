@@ -2,6 +2,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: green;
+    background-color: #000;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    opacity: .9;
+}
+
+nav img {
+    height: 50px;
+    margin-left: 10px;
 }
