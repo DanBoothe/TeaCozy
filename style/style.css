@@ -9,6 +9,15 @@
     opacity: .9;
 }
 
+h2 {
+    font-size: 35px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+/*Nav Section*/
 nav {
     display: flex;
     justify-content: space-between;
@@ -29,4 +38,22 @@ nav ul li {
 
 nav img {
     height: 50px;
+}
+
+/*Mission Section*/
+.mission-head {
+    opacity: 1;
+    width: 100%;
+    padding: 5px 0;
+    line-height: 2;
+}
+
+#mission {
+    display: flex;
+    background-image: url("../assets/images/img-mission-background.jpg");
+    height: 700px;
+    margin: 0 75px;
+    text-align: center; 
+    justify-content: center;
+    align-items: center;
 }
